@@ -1,4 +1,6 @@
+# AMI Uitls
 
+Listing AMIs based on the Name and Creation Date.
 
 ```cassandraql
 
